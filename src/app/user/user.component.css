@@ -1,5 +1,11 @@
-/* @import "~bootstrap/dist/css/bootstrap.css" */
+@import "~bootstrap/dist/css/bootstrap.css"
 
 .form-group{
   margin-right:240px;margin-top: 50px
+}
+.intro{
+  text-align: center;
+  color: black;
+  background-color: purple;
+
 }

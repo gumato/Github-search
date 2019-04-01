@@ -1,5 +1,5 @@
 # GitHub Search.
-#### This is a website where  users enter GitHub username into form and they submit them they can be able to see all the repositories and their details
+#### This is a website where  users enter GitHub username into form and they submit it, they can be able to see all their repositories and their details
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
