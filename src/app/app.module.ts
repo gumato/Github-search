@@ -6,11 +6,13 @@ import { UserService} from './users/user.service';
 
 import { AppComponent } from './app.component';
 import { UserComponent } from './user/user.component';
+import { AboutComponent } from './about/about.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     UserComponent,
+    AboutComponent,
 
 
   ],
