@@ -8,12 +8,12 @@ background-size: cover;
 / .form-group{
   margin-right:100px;margin-top: 50px
 }
-/* .intro{
+.intro{
   text-align: center;
   color: black;
   background-color: purple;
 font-size: 30px;
-} */
+}
 .repository{
   color: black;
 }
